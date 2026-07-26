@@ -2,6 +2,73 @@
     {
         "title": "Introduction",
         "file": "introduction"
+    },
+    {
+        "title": "CSS Syntax",
+        "file": "css-syntax"
+    },
+    {
+        "title": "CSS Selectors",
+        "file": "css-selectors"
+    },
+    {
+        "title": "CSS Cascade & Specificity",
+        "file": "css-cascade-specificity"
+    },
+    {
+        "title": "CSS Colors & Units",
+        "file": "css-colors-units"
+    },
+    {
+        "title": "CSS Box Model",
+        "file": "css-box-model"
+    },
+    {
+        "title": "CSS Typography",
+        "file": "css-typography"
+    },
+    {
+        "title": "CSS Backgrounds",
+        "file": "css-backgrounds"
+    },
+    {
+        "title": "CSS Display & Visibility",
+        "file": "css-display-visibility"
+    },
+    {
+        "title": "CSS Positioning",
+        "file": "css-positioning"
+    },
+    {
+        "title": "CSS Flexbox",
+        "file": "css-flexbox"
+    },
+    {
+        "title": "CSS Grid",
+        "file": "css-grid"
+    },
+    {
+        "title": "CSS Responsive Tasarım",
+        "file": "css-responsive-design"
+    },
+    {
+        "title": "CSS Animation",
+        "file": "css-animation"
+    },
+    {
+        "title": "Scss",
+        "file": "scss"
+    },
+    {
+        "title": "CSS Best Practices",
+        "file": "css-best-practices"
+    },
+    {
+        "title": "CSS Cheat Sheet",
+        "file": "css-cheat-sheet"
     }
+    
+    
+    
     
 ]

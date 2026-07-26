@@ -2,5 +2,65 @@
     {
         "title": "Introduction",
         "file": "introduction"
+    },
+    {
+        "title": "HTML Document Structure",
+        "file": "html-document-structure"
+    },
+    {
+        "title": "HTML Elements and Attributes",
+        "file": "html-elements-attributes"
+    },
+    {
+        "title": "Text Elements",
+        "file": "text-elements"
+    },
+    {
+        "title": "Links Navigation",
+        "file": "links-navigation"
+    },
+    {
+        "title": "Images",
+        "file": "images"
+    },
+    {
+        "title": "HTML Lists",
+        "file": "html-list"
+    },
+    {
+        "title": "HTML Tables",
+        "file": "html-tables"
+    },
+    {
+        "title": "HTML Layouts",
+        "file": "html-layouts"
+    },
+    {
+        "title": "Semantic HTML",
+        "file": "semantic-html"
+    },
+    {
+        "title": "HTML Forms",
+        "file": "html-forms"
+    },
+    {
+        "title": "HTML Multimedia",
+        "file": "html-multimedia"
+    },
+    {
+        "title": "Accessibility",
+        "file": "accessibility"
+    },
+    {
+        "title": "Meta SEO",
+        "file": "html-meta-seo"
+    },
+    {
+        "title": "HTML Best Practices",
+        "file": "html-best-practice"
+    },
+    {
+        "title": "HTML Cheat Sheet",
+        "file": "html-cheat-sheet"
     }
 ]
